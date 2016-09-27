@@ -1,2 +1,2 @@
 # hello-world
-Bam Bam BAM
+Bam Bam BAM, die programs hau ma zam!
